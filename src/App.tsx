@@ -25,7 +25,7 @@ function App() {
                 href="https://airtable.com/appesvGgInpbl8ihk/pagRflb3lJ5ou7CyO/form"
                 className="hover:underline hover:text-pink-500"
               >
-                Sign Up
+                Sign Up to create your Host.
               </a>
             </div>
           </div>
