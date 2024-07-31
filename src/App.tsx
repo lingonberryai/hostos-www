@@ -1,5 +1,4 @@
 import './App.css'
-import Header from './components/Header'
 import Rive from '@rive-app/react-canvas'
 
 export const Mascots = () => <Rive src="/mascots.riv" />
